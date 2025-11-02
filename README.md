@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=merttatd" alt="merttatd" /></a> </p>
 
-- 🌱 I’m currently learning **python and PHP**
+- 🌱 I’m currently learning **Python and PHP**
 
 - ⚡ Fun fact **i get bored (too) quickly**
 
