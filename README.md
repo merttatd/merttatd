@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mert Tatdıran</h1>
 <h3 align="center">University student who improves himself as a developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=merttatd&label=Profile%20views&color=0e75b6&style=flat" alt="merttatd" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=merttatd" alt="merttatd" /></a> </p>
-
 - 🌱 I’m currently learning **Python and PHP**
 
 - ⚡ Fun fact **i get bored (too) quickly**
