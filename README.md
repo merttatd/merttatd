@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Python and HTML-CSS<br>🌱 I’m currently learning Python and PyQT<br>⚡ Fun fact i get bored too quickly
+🔭 I’m currently working on Python and HTML-CSS<br>🌱 I’m currently learning Python and PyQT<br>⚡ Fun fact i learn things fast.
 
 
 ## 🌐 Socials:
