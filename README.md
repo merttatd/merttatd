@@ -1,5 +1,5 @@
 # 💫 About Me:
-                                                     👋MIS Student From Istanbul/Turkey<br><br>🔭 I’m currently working on Python and reactive websites.<br>🌱 I’m currently learning PHP, JavaScript.<br>⚡ Fun fact i get bored quickly.
+👋MIS Student From Istanbul/Turkey
 
 
 ## 🌐 Socials:
